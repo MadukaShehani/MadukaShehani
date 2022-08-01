@@ -1,5 +1,6 @@
 <h1 align="center">👩 Maduka Shehani</h1>
-<h3 align="center">👩‍🎓Undergraduate @ SLIIT - Software Engineering, 👩‍🎓Undergraduate @ CIPM - HR, From Sri Lanka,</h3>
+<h3 align="center">👩‍🎓Undergraduate @ SLIIT - Software Engineering, 👩‍🎓Undergraduate @ CIPM - HR, 
+  From Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madukashehani&label=Profile%20views&color=0e75b6&style=flat" alt="madukashehani" /> </p>
 
