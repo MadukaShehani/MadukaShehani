@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/technology-LeHynlQVvom8E/fullscreen)](https://MadukaShehani.io)
+[![MasterHead](http://bestcommunionideas.com/en/design-technology-staffing-structure)](https://MadukaShehani.io)
 <h1 align="center">👩Maduka Shehani👩</h1>
 <h3 align="center">👩‍🎓Undergraduate @ SLIIT - Software Engineering👩‍🎓</h3> 
 <h3 align="center">👩‍🎓Undergraduate @ CIPM - HR👩‍🎓</h3> 
