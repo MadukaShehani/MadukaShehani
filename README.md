@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=pOOgZsr4&id=706D7CA364D8073F0FF1F94FCE07C7CB065B97CE&thid=OIP.pOOgZsr4_c5WCKIdjOXvowHaEK&mediaurl=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FksmqY4Ca3GGWI%2Fgiphy.gif&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.a4e3a066caf8fdce5608a21d8ce5efa3%3Frik%3DzpdbBsvHB85P%252bQ%26pid%3DImgRaw%26r%3D0&exph=281&expw=500&q=animated+information+technology+git&simid=608055395434504632&form=IRPRST&ck=9FF2FB8B485373A77E7ABD45E2EA0C95&selectedindex=15&ajaxhist=0&ajaxserp=0&vt=0)](https://MadukaShehani.io)
+[![MasterHead](https://giphy.com/gifs/technology-LeHynlQVvom8E/fullscreen)](https://MadukaShehani.io)
 <h1 align="center">👩Maduka Shehani👩</h1>
 <h3 align="center">👩‍🎓Undergraduate @ SLIIT - Software Engineering👩‍🎓</h3> 
 <h3 align="center">👩‍🎓Undergraduate @ CIPM - HR👩‍🎓</h3> 
