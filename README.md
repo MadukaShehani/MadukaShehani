@@ -1,4 +1,4 @@
-[![MasterHead](http://bestcommunionideas.com/en/design-technology-staffing-structure)](https://MadukaShehani.io)
+<img align="center" alt="Coding" width="1000" height="350" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
 <h1 align="center">👩Maduka Shehani👩</h1>
 <h3 align="center">👩‍🎓Undergraduate @ SLIIT - Software Engineering👩‍🎓</h3> 
 <h3 align="center">👩‍🎓Undergraduate @ CIPM - HR👩‍🎓</h3> 
@@ -11,6 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MadukaShehani](https://github.com/MadukaShehani)
 - 📫 How to reach me **madukashehani98@gmail.com**
 - 📫 How to reach me [https://www.linkedin.com/in/maduka-shehani](https://www.linkedin.com/in/maduka-shehani-a71750244/)
+<img align="right" alt="Coding" width="400" src="https://classroomclipart.com/images/gallery/Animations/Graduation/student-grad-jumping-animated-clipart-crca.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
