@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="250" src="http://4.bp.blogspot.com/-v4Bzaj5eoAI/UXipBY1J10I/AAAAAAAAAL0/DtwOAG6V4YQ/s1600/BzB_Animated_WELCOME1_.gif">
+<img align="center" alt="Coding" width="900" height="250" src="http://4.bp.blogspot.com/-v4Bzaj5eoAI/UXipBY1J10I/AAAAAAAAAL0/DtwOAG6V4YQ/s1600/BzB_Animated_WELCOME1_.gif">
 <h1 align="center">👩Maduka Shehani👩</h1>
 <h3 align="center">👩‍🎓Undergraduate @ SLIIT - Software Engineering👩‍🎓</h3> 
 <h3 align="center">👩‍🎓Undergraduate @ CIPM - HR👩‍🎓</h3> 
