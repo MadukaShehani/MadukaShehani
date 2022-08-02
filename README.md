@@ -1,5 +1,11 @@
 <img align="center" alt="Coding" width="900" height="250" src="http://4.bp.blogspot.com/-v4Bzaj5eoAI/UXipBY1J10I/AAAAAAAAAL0/DtwOAG6V4YQ/s1600/BzB_Animated_WELCOME1_.gif">
+
+
+
 <h1 align="center">👩Maduka Shehani👩</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Undergraduate+@+SLIIT+-+Software+Engineering+.+.+.;+.+.+;&center=true"></a>  
+</p>
 <h3 align="center">👩‍🎓Undergraduate @ SLIIT - Software Engineering👩‍🎓</h3> 
 <h3 align="center">👩‍🎓Undergraduate @ CIPM - HR👩‍🎓</h3> 
 <h3 align="center">Sri Lanka</h3>
