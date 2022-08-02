@@ -1,23 +1,20 @@
-<img align="center" alt="Coding" width="900" height="250" src="http://4.bp.blogspot.com/-v4Bzaj5eoAI/UXipBY1J10I/AAAAAAAAAL0/DtwOAG6V4YQ/s1600/BzB_Animated_WELCOME1_.gif">
-
-
-
 <h1 align="center">👩Maduka Shehani👩</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Undergraduate+@+SLIIT+-+Software+Engineering+.+.+.;+.+.+;&center=true"></a>  
-</p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Wellcome+to+my+profile+.+.+.;.+.+.;&center=true"></a> </p>
 <h3 align="center">👩‍🎓Undergraduate @ SLIIT - Software Engineering👩‍🎓</h3> 
 <h3 align="center">👩‍🎓Undergraduate @ CIPM - HR👩‍🎓</h3> 
 <h3 align="center">Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madukashehani&label=Profile%20views&color=0e75b6&style=flat" alt="madukashehani" /> </p>
-
-<p align="left"> <a href="https:0//github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madukashehani" alt="madukashehani" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=madukashehani&label=Profile%20views&color=0e75b6&style=flat" alt="madukashehani" /> </p>
+<p align="center"> <a href="https:0//github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madukashehani" alt="madukashehani" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MadukaShehani](https://github.com/MadukaShehani)
 - 📫 How to reach me **madukashehani98@gmail.com**
 - 📫 How to reach me [https://www.linkedin.com/in/maduka-shehani](https://www.linkedin.com/in/maduka-shehani-a71750244/)
+
+
 <img align="right" alt="Coding" width="400" src="https://classroomclipart.com/images/gallery/Animations/Graduation/student-grad-jumping-animated-clipart-crca.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
