@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="950" height="350" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
+<img align="center" alt="Coding" width="800" height="350" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
 <h1 align="center">👩Maduka Shehani👩</h1>
 <h3 align="center">👩‍🎓Undergraduate @ SLIIT - Software Engineering👩‍🎓</h3> 
 <h3 align="center">👩‍🎓Undergraduate @ CIPM - HR👩‍🎓</h3> 
