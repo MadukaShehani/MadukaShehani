@@ -34,4 +34,4 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=_+MADUKA+SHEHANI+_;.+.+.;&center=true"></a> </p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=.+.+.+_+MADUKA+SHEHANI+_+.+.+.;.+.+.;&center=true"></a> </p>
