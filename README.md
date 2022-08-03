@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madukashehani&show_icons=true&locale=en" alt="madukashehani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madukashehani&" alt="madukashehani" /></p>
+
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=_+MADUKA+SHEHANI+_;.+.+.;&center=true"></a> </p>
